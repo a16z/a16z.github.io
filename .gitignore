@@ -1,2 +1,7 @@
-# Emacs
-*~
+# gh-pages and jekyll
+/_site/
+/.jekyll-metadata
+
+# bundler
+/.bundle/
+/vendor/
